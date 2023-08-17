@@ -1,30 +1,61 @@
 # Chakradharbandaru
 
-<div id="header" align="center">
-  <img src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/privateinvestocat.png" width="200"/>
-</div>
-<h1 align="center">Hi👋, I'm Chakradhar</h1>
-<h3 align="center">A passionate Cyber security enthusiast from an Unknown Planet..🛸</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chakradhar&label=Profile%20views&color=0e75b6&style=flat" alt="Chakradhar" /></p>
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chakradhar" alt="chakradhar" /></a> </p>
--->
-
-- 🔭 I’m currently working on  **Web application Pentesting**
-
-- 🌱 I’m currently learning  **OWASP10**
-
-- 👯 I’m looking to collaborate on  **any open source projects**
-
-- 💬 Ask me about  **Cybersecurity, Bug bounty, Pentesting**
-
-- 😄 Pronouns:  **Alpha**
-
-- ⚡ Fun fact:  **UFO Believer, because we all are Aliens, right? 👽**
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
+<h1 align="center"><b>Hola Visitor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Chakradhar Bandaru !</b><h1>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=hritamdutta18&label=Profile%20Views&color=0e75b6" alt="hritamdutta18"/>
+</p>
   
-<a href="https://www.linkedin.com/in/chakradhar-bandaru-490390220/" target="blank">
-<img align="center" src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/icons8-linkedin.svg" alt="bharadwaj1557" height="40" width="40" />
+## I'm a CSE-Cybersecurity Student at SRMIST Kattankulthur.  
+
+- 👨‍💻 I’m primarily a Front-End Web Developer.
+- 📚 I’m currently learning everything about Backend technologies 😅
+- 💪🏼 Future Goals: Becoming a Full Stack MERN Developer 😄
+- ⚡ Hobbies: I love playing Cricket
+- 🤝 I’m looking to collaborate on different Web Dev Projects !
+- 😄 Pronouns: He/Him
+
+<hr> 
+<img align="right" alt="GIF" height="135px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<h3>🛠 Tech Stack</h3><br>
+  
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![JAVA](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=JAVA&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=A8B9CC)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?logo=mongodb&style=flat)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=A8B9CC)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-05122A?logo=react&style=flat)&nbsp;\
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?logo=visual%20studio%20code&style=flat)&nbsp;
+
+<hr>
+
+<h3>📈 GitHub Stonks</h3><br>
+<p align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hritamdutta18&show_icons=true&locale=en&layout=compact&theme=gotham" alt="hritamdutta18"/><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=hritamdutta18&count_private=true&theme=gotham&show_icons=true&include_all_commits=true" alt="hritamdutta18"/><br><br> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritamdutta18&theme=gotham">
+</p>
+
+<hr>
+  
+<h3>🤳 Connect With <a href="https://hritam-dutta.me" target="_blank">Me</a></h3><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/chakradhar-bandaru-490390220/" target="_blank">
+    <img src="https://img.shields.io/badge/-Hritam%20Dutta-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:chakribandaru37@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-hritamloyola10@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
+  
+<hr>
+<p>
+  <i><b>Credits</b></i> : <a href="https://github.com/Chakradharbandaru">Chakradhar Bandaru</a><br><br>
+  <i><b>Last Edited on</b></i> : 17/08/2023
+</p>

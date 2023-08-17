@@ -37,20 +37,20 @@
 
 <h3>📈 GitHub Stonks</h3><br>
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hritamdutta18&show_icons=true&locale=en&layout=compact&theme=gotham" alt="hritamdutta18"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=hritamdutta18&count_private=true&theme=gotham&show_icons=true&include_all_commits=true" alt="hritamdutta18"/><br><br> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritamdutta18&theme=gotham">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chakradharbandaru&show_icons=true&locale=en&layout=compact&theme=gotham" alt="hri"/><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chakradharbandaru&count_private=true&theme=gotham&show_icons=true&include_all_commits=true" alt="Chakradharbandaru"/><br><br> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chakradharbandaru&theme=gotham">
 </p>
 
 <hr>
   
-<h3>🤳 Connect With <a href="https://hritam-dutta.me" target="_blank">Me</a></h3><br>
+<h3>🤳 Connect With <a href="https://chakradhar bandaru.me" target="_blank">Me</a></h3><br>
 <p align="center">
   <a href="https://www.linkedin.com/in/chakradhar-bandaru-490390220/" target="_blank">
-    <img src="https://img.shields.io/badge/-Hritam%20Dutta-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Chakradhar%20Bandaru-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:chakribandaru37@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-hritamloyola10@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-chakribandaru37@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
   </a>
 </p>
   

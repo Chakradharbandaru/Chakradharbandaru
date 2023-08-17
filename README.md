@@ -1,4 +1,3 @@
-# Chakradharbandaru
 
 <h1 align="center"><b>Hola Visitor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Chakradhar Bandaru !</b><h1>
 <p align="center"> 
